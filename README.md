@@ -1,0 +1,1 @@
+jcarausel-lite-pause-on-hover-fixed
